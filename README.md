@@ -1,5 +1,5 @@
 # github_final_project_IBMKunal
-github_final_project_IBMKunal
+Simple Interest Calculator
 
 A calculator that calculates simple interest given principal, annual rate of interest and time period in years.
 
